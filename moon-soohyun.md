@@ -3,7 +3,7 @@ Title: Next to Normal
 Year: 2008
 Genre: Musical
 Disease: Bipolar Disorder
-ICD: 
+ICD: F31
 ---
 
 # Next to Normal
