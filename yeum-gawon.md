@@ -18,5 +18,5 @@ Furthermore, by utilizing this exact same theme both when Nash solves real mathe
 
 link: https://youtu.be/eamiiuUmVz8?si=lPYEU-sr_weuXyGq
 <img width="1536" height="1024" alt="ChatGPT Image 2026년 5월 20일 오후 07_21_17" src="https://github.com/user-attachments/assets/6550e22e-8adb-45bd-a4aa-846f84cc814b" />
-
+비슷한 내용은 shin-minsup.md 를 참고하세요.
 
