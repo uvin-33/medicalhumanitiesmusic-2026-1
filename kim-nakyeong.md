@@ -8,8 +8,11 @@ ICD: G30
 
 # The Notebook
 
-*The Notebook* is a story about Noah from a poor family and Ally from a rich family who meet and fall in love, but break up for practical reasons. After a while, the two meet again, choose each other, and live a life together. However, Ally in old age loses her memory due to dementia, and Noah tries to regain her memory by reading the love stories of the two to her every day.
+*The Notebook* is a story about Noah from a poor family and Ally from a rich family meet and fall in love, but break up for practical reasons. After a while, the two meet again, choose each other, and live a life together. However, Ally in old age loses her memory due to dementia, and Noah tries to regain her memory by reading the love story of the two to her every day. The scene where Noah reads a story with memories to Ally was most impressive as it shows the deep love and dedication of the two.
 
+The music used in the movie is centered on the calm piano melody and the classical background music, and conveys the love, longing, and sadness of the two more deeply. In particular, soft and lyrical music flows in the scene where emotions are high, emphasizing the emotion of the moment when Allie recovers her memory for a moment. This music is not just a background, but also serves to express the character's emotional changes and help the audience more sympathize with the confusion and sorrow caused by dementia.
+
+In the work, dementia is not just a disease, but appears as a key factor in testing the relationship between the two. As Allie loses her memory, her memories and feelings with Noah become blurred, but Noah stays by her side and continues his love. Through this, the movie shows that dementia not only affects individual memories but also human relationships and identity.
 [영상에서 가장 인상깊었던 장면 중 하나](https://www.youtube.com/watch?v=TlEQSsg7w7U)
 
 In the work, dementia is not just a disease, but a key factor that tests their relationship. As Ally loses her memory, her memories and emotions with Noah blur, but Noah stays by her side and continues his love. This shows that dementia has a great influence on not only personal memories but also human relationships and identity.
