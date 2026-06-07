@@ -10,7 +10,7 @@ ICD: C92.5
 
 *Orange* (2015)/ Lyrics&Composition: MICHIRU/ Lyrics: “Surely, the two of us remained just as we were that day, like innocent children, running with all our might through the turning seasons,,,,” “through streets dyed in the orange of the setting sun.”/ Your Lie in April is a story that portrays wounds and healing through music. Kousei, who suffers from trauma related to the piano, meets Kaori, a free-spirited violinist, and gradually regains both his music and emotions. Music symbolizes not only Kaori’s fleeting life but also her determination to shine until the very end despite her illness. Kaori’s disease is portrayed throughout the animation through repeated hospital visits, sudden collapses, pale expressions, and scenes where she struggles physically even while trying to smile brightly in front of others. Although her body becomes weaker, she continues performing on stage and living passionately. The orange sunset is most brilliant just before it disappears into darkness, symbolizing Kaori’s fading life while also reflecting her will to burn brightly until her final moment. For an additional example of how music is utilized not merely to define physical disability as a source of sorrow, but as a device that brilliantly illuminates the human will, it would be highly recommended to refer [The Theory of Everything](choi-mihyeon.md) [Enjoy the animation plot with the OST](https://youtu.be/RPQGWnfG_bs?si=ep80eWx13nfQgeZ-)
 
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/c482703c-1a6f-4207-a9cd-be00ce38a59e" />
+<img src="./image_kim-soobin.png" alt=description" style="width:25%;" />
 
 # 4월은 너의 거짓말
 
