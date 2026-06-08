@@ -17,7 +17,7 @@ audience to view disability not as something to be overcome but as a unique and 
 [Though cheerful, the song carries a story of perseverance.](https://www.youtube.com/watch?v=6nM9hL95LzA&list=RD6nM9hL95LzA&start_radio=1https://www.youtube.com/watch?v=6nM9hL95LzA&list=RD6nM9hL95LzA&start_radio=1)
 After being abandoned by his mother as a child, Cho-won ran because he feared she might leave him again and wanted to obey her. Over time, however, he overcame that fear and began to truly enjoy running itself, which gives the song its emotional impact
 
-It will be more helpful to refer to [the contents of other works] (lim-taehyeon.md ), which does not just express disability as negative and difficult.
+It will be more helpful to refer to [the contents of other works](lim-taehyeon.md ), which does not just express disability as negative and difficult.
 
 <img src="./ko-eunsung.png" alt="An illustration depicting happiness felt by an autistic runner." style="width:25%;" />
 
