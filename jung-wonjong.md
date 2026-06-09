@@ -12,6 +12,22 @@ The work I selected is the Japanese TV drama *One Litre of Tears*. It was broadc
 
 <img src="./jung-wonjong.png" alt="girl holding diary by handrail" style="width:33%;" />
 
+# Funeral Music I Would Like to Be Played at My Funeral
+
+The funeral music I would like to choose is Ryuichi Sakamoto’s *Solitude*, performed by Lavinia Meijer on harp. [YouTube link](https://youtu.be/8YB8ZH3_VLU?si=Gbo-VYnZop2YuC1f)
+
+I was originally most drawn to the low and dry resonance of the cello pizzicato version I heard at a concert. However, since I could not find a video of that version again, I eventually chose Lavinia Meijer’s harp version. This version still preserves a delicate plucked-string texture, which fits the quiet and restrained atmosphere that first drew me to the piece.
+
+To me, *Solitude* does not express death in an overly dramatic or sentimental way. Instead, it quietly suggests solitude, absence, and the process of accepting what is no longer present. The fading sound of the harp feels like a trace of memory that remains for a moment after someone has gone. For this reason, I think this piece would allow the people who remain to remember me calmly, rather than only mourn me through exaggerated sadness.
+
 # 1리터의 눈물
 
 제가 선택한 작품은 일본 텔레비전 드라마 1리터의 눈물입니다. 이 작품은 2005년 후지 티비에서 방영된 드라마로, 아야 키토의 실제 일기를 바탕으로 만들어졌습니다. 제가 선택한 음악은 [레미오로멘의 코나유키](https://youtu.be/1wxTksLZ1Mw?si=3FKp9OtUi881hoii)입니다. 이 곡은 1리터의 눈물의 삽입곡으로 사용되었습니다. 작사와 작곡은 료타 후지마키가 맡았고, 편곡은 다케시 고바야시와 레미오로멘이 맡았습니다. 발매일은 2005년 11월 16일입니다. 코나유키는 척수소뇌변성증을 의학적 증상으로 직접 설명하는 음악은 아닙니다. 대신 이 곡은 질병이 한 사람의 몸뿐만 아니라 인간관계와 소통에 남기는 거리를 감정적으로 보여줍니다. 척수소뇌변성증은 균형, 움직임 조절, 보행, 말하기, 글쓰기 등에 점차 영향을 주는 질병이며, 작품 속 아야의 일상에서도 평범했던 행동들이 점점 어려워지는 모습으로 드러납니다. 드라마는 이를 단순한 의학적 문제로만 보여주기보다, 아야가 자기 마음을 예전처럼 표현하기 어려워지는 과정으로 보여줍니다. 작품 속에서 아야는 점차 걷기, 말하기, 쓰기와 같은 능력을 잃어 가지만, 마음속에는 여전히 누군가와 연결되고 싶은 마음이 남아 있습니다. 비교적 느린 tempo, 애절한 vocal line, 그리고 반복되는 가루눈의 이미지는 “닿고 싶지만 완전히 닿을 수 없는 상태”를 표현합니다. 이 곡은 극적인 변화나 강한 폭발보다는, 감정을 억누르는 듯한 분위기와 조심스럽게 이어지는 vocal line을 통해 슬픔을 쌓아 갑니다. 이러한 절제된 음악적 표현은 아야의 질병이 갑작스러운 사건이 아니라, 평범한 행동과 소통 능력을 조금씩 잃어 가는 과정으로 나타난다는 점과 잘 연결됩니다. 이 감정은 아야가 학교생활을 이어가고, 가족과 친구들에게 자신의 마음을 전하려 하며, 몸이 점점 뜻대로 움직이지 않는 상황 속에서도 평범한 관계를 붙잡으려는 장면들과 연결됩니다. 이런 점에서 곡의 반복되는 애절한 분위기는 질병이 단순한 신체 능력의 저하가 아니라, 정서적 거리감과 일상적 소통의 어려움으로 계속 이어지는 경험임을 보여줍니다. 따라서 이 음악은 질병 자체보다 병을 겪는 경험, 즉 진단명 뒤에 있는 고독, 사랑, 상실, 그리고 끝까지 인간으로 남고 싶은 마음을 묘사한다고 볼 수 있습니다. 이 항목은 신경계 질환이 지각과 일상 수행을 흔드는 상황에서 음악이 정체성과 인간적 연결을 지탱하는 방식으로 기능하는 [아내를 모자로 착각한 남자](jung-woojin.md)의 사례와도 함께 읽을 수 있습니다.
+
+# 나의 장례식에서 연주되길 희망하는 음악
+
+제가 선택한 장례식 음악은 Lavinia Meijer가 하프로 연주한 Ryuichi Sakamoto의 *Solitude*입니다. [YouTube 링크](https://youtu.be/8YB8ZH3_VLU?si=Gbo-VYnZop2YuC1f)
+
+원래는 콘서트에서 들었던 첼로 피치카토 버전의 낮고 건조한 울림이 가장 마음에 들었지만, 그 버전의 영상을 다시 찾을 수 없어 최종적으로는 Lavinia Meijer의 하프 버전을 선택했습니다. 이 버전 역시 현을 뜯는 섬세한 질감이 살아 있어, 제가 처음 이 곡에서 느꼈던 고요하고 절제된 분위기와 잘 맞는다고 생각했습니다.
+
+*Solitude*는 죽음을 극적으로 슬프게 표현하기보다, 고독과 부재를 조용히 받아들이게 만드는 음악처럼 들립니다. 특히 하프의 짧게 사라지는 울림은 한 사람이 떠난 뒤에도 잠시 남아 있는 기억의 흔적처럼 느껴집니다. 그래서 이 곡은 남아 있는 사람들이 과장된 슬픔보다는 차분한 기억 속에서 저를 떠올리게 하는 음악이 될 수 있다고 생각합니다.
