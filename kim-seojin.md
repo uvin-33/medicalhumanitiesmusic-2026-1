@@ -20,6 +20,11 @@ From a medical humanities perspective, the music of Rent goes far beyond merely 
 
 <img width="500" height="300" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
 
+# Music I wish to have played at my funeral
+
+The song "Remember Me" from the movie Coco possesses a magical power that frames death not as an eternal goodbye, but as a "connection of memories," which is why it was chosen as a funeral piece. This music sounds like a tender final wish from the departed, whispered to those left behind: "Even if I travel far away, my heart will always be with you, so please remember me whenever you hear this music." It beautifully mirrors the movie's core message—that even though our physical bodies may vanish, as long as the living cherish and keep those memories alive in their hearts, our existence will never truly fade away.
+['Remember me'의 음악](https://www.youtube.com/watch?v=KP_XkN2v7OM)
+
 # 렌트
 
 1996년에 초연된 조나단 라슨(Jonathan Larson)의 뮤지컬 '렌트'는 1990년대 초 뉴욕 이스트 빌리지를 배경으로 가난한 예술가들의 삶과 에이즈(AIDS)의 참상을 다룹니다. 당시 사회에서 에이즈는 단순한 의학적 사형선고를 넘어, 도덕적 타락이라는 낙인과 혐오가 뒤따르는 가혹한 '사회적 형벌'이었습니다. 극 중 인물들은 극심한 오한과 발열, 체중이 급격히 감소하는 소모성 증후군 등 '질병의 고통'을 온몸으로 겪어냅니다. 늘 추위에 떠는 미미나 활기찼던 엔젤의 쇠약과 죽음이 이를 증명하며, 특히 에이즈 치료제 AZT 복용 시간을 알리는 디지털 호출기의 비프(Beep)음은 질병이 환자의 일상을 잠식하는 물리적 침입자이자, 이들이 사회적 낙인의 대상임을 알리는 서늘한 경고음으로 청각화됩니다.
@@ -33,3 +38,8 @@ From a medical humanities perspective, the music of Rent goes far beyond merely 
 의료인문학적 관점에서 '렌트'의 음악은 단순히 환자들의 고통을 표현하는 데 머물지 않습니다. 이 작품은 무대 위 환자들의 경험을 강렬한 록과 다성적인 합창을 통해 객석으로 확장시킴으로써, 관객들로 하여금 에이즈 환자를 '동정이나 혐오의 대상'이 아닌 '우리와 같이 오늘을 살아가는 존엄한 인간'으로 다시 보게 만듭니다. '렌트'는 예술이 어떻게 사회적 낙인을 걷어내는 저항의 언어가 되고, 나아가 관객의 질병 인식까지 변화시켜 사회적 치유를 이끌어낼 수 있는지를 보여주는 묵직한 증명입니다.
 
 <img width="500" height="300" alt="image of Rent" src="https://github.com/user-attachments/assets/8e89fa98-755e-4aba-84e5-719a3d8de7b8" />
+
+# 장례식에서 연주되길 희망하는 음악
+
+영화 ‘코코’의 OST ‘Remember Me’는 죽음을 영원한 이별이 아닌 ‘기억의 연결’로 바라보게 만드는 마법 같은 힘이 있어 장례식 음악으로 선정하게 되었습니다. 이 곡은 “내가 멀리 떠나더라도 내 마음은 언제나 너와 함께 있으니 음악을 들을 때마다 나를 기억해 달라”는 고인의 다정한 유언처럼 들리는 음악입니다. 물리적인 육신은 사라질지라도 남은 이들이 고인을 마음속에 간직하고 추억하는 한, 그 존재는 결코 소멸하지 않는다는 영화의 메시지를 그대로 투영하고 있습니다.
+['Remember me'의 음악](https://www.youtube.com/watch?v=KP_XkN2v7OM)
