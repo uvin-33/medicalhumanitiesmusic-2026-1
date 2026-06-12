@@ -23,7 +23,7 @@ From a medical humanities perspective, the music of Rent goes far beyond merely 
 # Music I wish to have played at my funeral
 
 The song "Remember Me" from the movie Coco possesses a magical power that frames death not as an eternal goodbye, but as a "connection of memories," which is why it was chosen as a funeral piece. This music sounds like a tender final wish from the departed, whispered to those left behind: "Even if I travel far away, my heart will always be with you, so please remember me whenever you hear this music." It beautifully mirrors the movie's core message—that even though our physical bodies may vanish, as long as the living cherish and keep those memories alive in their hearts, our existence will never truly fade away.
-['Remember me'의 음악](https://www.youtube.com/watch?v=KP_XkN2v7OM)
+[Music of 'Remember me'](https://www.youtube.com/watch?v=KP_XkN2v7OM)
 
 # 렌트
 
