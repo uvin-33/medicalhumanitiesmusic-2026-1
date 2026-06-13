@@ -4,6 +4,9 @@ Year: 2024
 Genre: Webtoon
 Disease: Psychological Trauma
 ICD: F43.1
+Music: Desperado part 1
+Composer: Team MSD
+Type: BGM
 ---
 
 # Webtoon Castle 2: On Top of the World (Episode 50)

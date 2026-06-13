@@ -4,6 +4,8 @@ Year: 2016-2019
 Genre: Music
 Disease: Dementia
 ICD: F00~F03
+Artist: James Leyland Kirby
+Type: Ambient
 ---
 
 # Everywhere at the end of time

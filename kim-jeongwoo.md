@@ -3,7 +3,7 @@ Title: Keys to the Heart
 Year: 2018
 Genre: Film
 Disease: Autistic disorder
-ICD: F84.0
+ICD: 6A02
 ---
 <img src="./kim-jeongwoo.jpg" alt="Abstract image of Jin-tae playing piano" style="width:50%;" />
 
