@@ -3,15 +3,13 @@ Title: OMORI
 Year: 2020
 Genre: Game
 ICD: 6B40 , 6B03
+Song : My Time , Duet
+Composer : Pedro Silva, Jami Lynne, bo en
 Disease: PTSD, Specific phobia,Dissociative Disorders
 ICD: 6B40 , 6B03 , 6B64
 ---
 
 # OMORI
-
-Song Name: My Time , Duet
-
-composer:  Pedro Silva, Jami Lynne, bo en
 
 The plot of the game: Sunny, the main character, cannot overcome the guilt caused by past tragic events, so she becomes Omori, the ego of the dream world, and escapes while isolating herself. It deals with the psychology of a boy wandering between real pain and fantasy in a dream.
 
@@ -20,10 +18,6 @@ The game's ending song "[My Time](https://youtu.be/mzgYj_qCHLg?si=vg2qy8cZJEr8Nf
 <img src="./lee-donggeun.png" alt="A surreal, glitch-art abstract collage depicting the psychological collapse and dissociation of OMORI's bad ending theme, 'My Time'." style="width:33%;" />
 
 # 오모리
-
-곡명: My Time, Duet
-
-작곡가:  Pedro Silva, Jami Lynne, bo en
 
 게임의 줄거리: 주인공 ‘써니’가 과거의 비극적인 사건으로 인한 죄책감을 이기지 못해, 자신을 격리한 채 ‘화이트 스페이스’라는 꿈속 세계의 자아 ‘오모리’가 되어 도피하는 과정을 그립니다. 현실의 고통과 꿈속의 환상 사이에서 방황하는 소년의 심리를 다룬다.
 

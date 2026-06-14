@@ -4,6 +4,7 @@ Year: 1815
 Genre: Art song
 Disease: High fever
 ICD: R50
+Composer: Schubert
 ---
 
 # The Elf King
