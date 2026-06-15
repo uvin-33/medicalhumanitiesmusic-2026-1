@@ -32,9 +32,21 @@ Riz Ahmed - “Mogambo”: https://www.youtube.com/watch?v=F-lAPR5EWAs&list=RDF-
 
 ## AI 생성 이미지
 
-<img src="./mogul-mowgli-ai-image.png.png" alt="AI-generated image representing Mogul Mowgli, musical identity, and bodily vulnerability" style="width:35%;" />
+<img src="./kim-chanwoo.png" alt="AI-generated image representing Mogul Mowgli, musical identity, and bodily vulnerability" style="width:35%;" />
 
 이 AI 생성 이미지는 무대 위에서 마이크를 든 래퍼와 그의 몸 주변에 떠오르는 면역세포, 신체의 균열, 병실을 연상시키는 분위기를 한 화면에 배치한다. 무대 조명 아래의 래퍼는 “Mogambo”가 드러내는 강한 예술적 정체성과 저항의 에너지를 상징하고, 주변의 면역세포와 균열은 자가면역질환으로 인해 자신의 몸을 더 이상 이전처럼 통제할 수 없게 된 제드의 경험을 나타낸다. 이 이미지는 음악적 목소리의 강인함과 신체적 취약성이 동시에 존재하는 영화의 핵심 긴장을 시각적으로 보완한다.
+
+## 장례식 음악
+
+강아솔 - "그대에게": https://www.youtube.com/watch?v=ezJncbvTyBo
+
+내 장례식에서 연주되기를 희망하는 음악은 강아솔의 〈그대에게〉이다. 이 곡은 죽음을 거창한 비극이나 완성된 결말로 만들기보다, 남겨진 사람에게 조용히 말을 건네는 듯한 분위기를 지닌다. 장례식에서 내가 원하는 음악은 삶을 영웅적으로 정리하거나 슬픔을 과장하는 노래가 아니라, 함께했던 사람들에게 “괜찮다”고 말해 줄 수 있는 음악이다. 이 곡의 담담한 목소리와 절제된 반주는 떠나는 사람의 입장에서 남겨진 사람들을 위로하는 마지막 인사처럼 들린다.
+
+또한 이 음악은 한 사람의 삶을 단순히 죽음이라는 사건으로 마무리하지 않게 해 준다. 삶은 끝나지만, 음악은 남은 사람들의 기억 속에서 계속 들릴 수 있다. 장례식 음악은 떠나는 사람만을 위한 것이 아니라, 남겨진 사람들이 상실을 받아들이고 서로를 위로하기 위해 함께 듣는 음악이라고 생각한다. 그래서 〈그대에게〉는 내 죽음을 슬픔으로만 기억하게 하기보다, 내가 맺었던 관계와 함께 나누었던 시간을 조용히 떠올리게 하는 음악으로 적절하다고 생각한다.
+
+The music I would like to be played at my funeral is Kang Asol’s “To You.” This song does not turn death into a dramatic tragedy or a perfect ending. Instead, it sounds like a quiet voice speaking gently to the people who remain. The funeral music I want is not a song that glorifies my life or exaggerates sadness, but a song that can softly tell others that it is okay. The calm voice and restrained accompaniment of this song feel like a final farewell from the person leaving to the people left behind.
+
+This music also prevents a person’s life from being reduced only to the moment of death. A life may end, but music can continue to remain in the memories of others. I believe funeral music is not only for the person who leaves, but also for those who listen together, accept loss, and comfort one another. For this reason, “To You” would be appropriate for my funeral. Rather than making people remember my death only as sadness, it would allow them to quietly recall the relationships, memories, and time we shared.
 
 ## 관련 항목
 

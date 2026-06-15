@@ -27,3 +27,9 @@ For other articles on the same movie, see <https://github.com/Gyurin-Kim/medical
 같은 영화를 다룬 다른 글은 <https://github.com/Gyurin-Kim/medicalhumanitiesmusic-2026-1/blob/5f39ff31b45f1b2e92bb49df67c4620d6bddeff5/yeum-gawon.md> 을 참고하세요.
 
 <img width="1402" height="1122" alt="뷰티풀마인드" src="https://github.com/user-attachments/assets/8d63e6c1-7c3a-4916-a3cd-c6fa32207792" />
+
+# 장례식에서 연주되었으면 하는 음악
+
+나의 장례식에서 연주되었으면 하는 음악은 빈지노의 〈Always Awake〉(https://youtu.be/iGWKNrtbF9I?si=4xYyd38cJ0erNWwH)이다. 이 노래를 처음 들었을 때 가사 속 “왜냐면 난 내 꿈의 근처라도 가보고는 죽어야지 싶더라고”라는 말이 특히 마음에 남았다. 힘들고 지치는 순간이 찾아올 때마다 이 가사를 떠올리며 다시 한 번 앞으로 나아갈 힘을 얻곤 했다. 그래서 이 노래는 단순히 좋아하는 음악이 아니라 나를 버티게 해 준 하나의 다짐과도 같다. 언젠가 삶을 돌아보는 순간이 온다면 꿈을 향해 끝까지 노력했던 나의 모습을 이 노래와 함께 기억하고 싶다.
+
+The music I want to be played at my funeral is "Always Awake" by Beenzino(https://youtu.be/iGWKNrtbF9I?si=4xYyd38cJ0erNWwH). When I first heard this song, the words "Because I want to go near my dream and die" in the lyrics were especially memorable. Whenever a difficult and tiring moment came, I would think of these lyrics and gain strength to move forward once again. So, this song is not just a favorite music, but a commitment that held me up. If there is a moment to look back on my life someday, I want to remember my efforts to the end toward my dream with this song.

@@ -1,8 +1,8 @@
 ---
 Title: The Diving Bell and the Butterfly
 Year: 2007
-Genre: film
-Disease: locked in syndrome
+Genre: Film
+Disease: Locked-in syndrome
 ICD: G83.5
 ---
 
@@ -16,11 +16,21 @@ YouTube link: [The Diving Bell and the Butterfly - Related music/video](https://
 
 <img src="./seo-taewon-image.PNG" alt="symbolic image of locked-in syndrome and memory" style="width:25%;" />
 
+## Course connections
+
+This entry connects to Week 3’s discussion of disease and illness by treating locked-in syndrome not only as a neurological diagnosis, but also as a subjective experience of isolation and inner consciousness. It also reflects Week 5’s discussion of music and pain, because the analysis focuses on how silence, mechanical sounds, repeated melody, and lyrical music communicate suffering beyond ordinary language. Finally, the related entries section connects this work to the open-source database activity by linking it with other entries on hearing impairment, psychological instability, surgery, and bodily pain.
+
 ## Related entries
 
 - [ryu-hyunmin.md](./ryu-hyunmin.md): This entry discusses how the experience of hearing impairment in *CODA* is represented through the absence of music and the use of silence. It is related to my entry because both examine how sound and non-sound can express the experience of disability.
 - [seo-jihui.md](./seo-jihui.md): This entry analyzes how “Bathroom Dance” in *Joker* musically represents the character’s psychological and neurological instability. It connects to my entry because both focus on music as a narrative device that reveals a character’s inner state.
 - [ryu-jimin.md](./ryu-jimin.md): This entry examines how Marin Marais’s work musically depicts surgery, pain, and bodily suffering. It is related to my entry because both consider how music can make illness and physical experience perceptible to the audience.
+
+## Funeral Music
+
+Music I would like to be played at my funeral: [Arvo Pärt - Spiegel im Spiegel](https://www.youtube.com/watch?v=TJ6Mzvh3XCc)
+
+I would like Arvo Pärt’s Spiegel im Spiegel to be played at my funeral. The piece is built on a slow, repetitive, and transparent musical structure, so it does not express grief in an overly dramatic way. Instead, its quiet piano part and long melodic lines create a space for reflection, memory, and calm mourning. I think this music would allow the people present to look back on my life without forcing a single emotion onto them. Rather than presenting death only as sadness or loss, Spiegel im Spiegel gives the feeling of stillness and continuity, as if memory continues even after the body is gone. For that reason, I think it would be appropriate music for my funeral.
   
 # 잠수종과 나비
 
@@ -32,8 +42,18 @@ YouTube link: [The Diving Bell and the Butterfly - Related music/video](https://
 
 <img src="./seo-taewon-image.PNG" alt="symbolic image of locked-in syndrome and memory" style="width:25%;" />
 
+## 수업 내용과의 연결
+
+이 항목은 Week 3에서 다룬 disease와 illness의 구분과 연결됩니다. locked-in syndrome을 단순한 신경학적 진단명으로만 보지 않고, 신체적 고립과 내면의 의식이 공존하는 주관적 경험으로 해석했기 때문입니다. 또한 Week 5에서 다룬 음악을 통한 고통의 표현과도 연결됩니다. 병실의 기계음, 무음, 반복 선율, 회상 장면의 서정적 음악이 언어로 설명하기 어려운 고통을 감각적으로 전달한다는 점을 분석했기 때문입니다. 마지막으로 상호참조 링크를 통해 청각장애, 심리적 불안정, 수술과 신체적 고통을 다룬 다른 항목들과 연결했다는 점에서 오픈소스 기반 의료인문학 DB 구축 활동과도 관련됩니다.
+
 ## Related entries
 
 - [ryu-hyunmin.md](./ryu-hyunmin.md): 이 글은 영화 〈CODA〉에서 청각장애의 경험이 음악의 부재와 침묵을 통해 전달된다는 점을 다루고 있어, 제 글과 함께 소리와 비소리가 장애 경험을 어떻게 표현하는지 비교해볼 수 있습니다.
 - [seo-jihui.md](./seo-jihui.md): 이 글은 〈Joker〉의 “Bathroom Dance”가 인물의 심리적·신경학적 불안정을 음악적으로 드러내는 방식을 분석하고 있어, 음악이 인물의 내면 상태를 표현하는 서사 장치라는 점에서 제 글과 연결됩니다.
 - [ryu-jimin.md](./ryu-jimin.md): 이 글은 마랭 마레의 작품이 수술의 고통과 신체적 고통을 음악적으로 묘사하는 방식을 다루고 있어, 음악이 질병과 신체 경험을 감각적으로 전달한다는 점에서 제 글과 관련이 있습니다.
+
+## 장례식에서 연주되길 희망하는 음악
+
+장례식에서 연주되길 희망하는 음악: [Arvo Pärt - Spiegel im Spiegel](https://www.youtube.com/watch?v=TJ6Mzvh3XCc)
+
+저는 제 장례식에서 Arvo Pärt의 〈Spiegel im Spiegel〉이 연주되었으면 좋겠습니다. 이 곡은 느리고 반복적인 선율과 절제된 피아노 반주를 중심으로 전개되기 때문에, 슬픔을 과도하게 극적으로 표현하기보다 조용히 돌아보고 애도할 수 있는 분위기를 만들어줍니다. 장례식이라는 자리는 죽음을 단순히 비극으로만 받아들이는 시간이 아니라, 한 사람의 삶과 기억을 차분히 떠올리는 시간이기도 하다고 생각합니다. 〈Spiegel im Spiegel〉은 고요하고 투명한 음악적 흐름을 통해 남아 있는 사람들이 각자의 방식으로 기억하고 애도할 수 있는 여백을 만들어줍니다. 그래서 이 곡은 제 장례식에서 삶의 끝과 기억의 지속성을 함께 표현해 줄 수 있는 음악이라고 생각합니다.

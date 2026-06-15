@@ -34,3 +34,15 @@ In this film, music serves as a crucial element in directly portraying the prota
 
 이처럼  Black Swan 은 음악을 통해 순수함과 어둠, 통제와 광기, 그리고 완벽주의가 초래한 정신적 붕괴를 강렬하게 표현한 작품입니다.
 
+# 장례식 곡
+
+찰리빈 웍스-우리 사랑은!
+
+이 곡을 선택한 이유는 많은 슬픔과 아픔을 경험했고, 앞으로도 경험할 청춘들에게 큰 위안을 주고 싶기 때문이다.
+나는 모든 시련에는 끝이 있으며, 그 끝에는 더 나은 내가 있으리라고 굳게 믿는다. 이 노래를 통해 힘든 시간을 보내고 있는 사람들에게 희망과 용기의 메시지를 남기고 싶다
+
+CHARLIE BEAN WORKS-OUR LOVE IS!
+I chose this song because I want to give comfort to young people who have experienced, and will continue to experience, sadness and hardship in their lives.
+I firmly believe that every trial has an end, and that at the end of every hardship, I will become a better version of myself. Through this song, I hope to leave a message of hope and encouragement for those who are struggling.
+
+https://www.youtube.com/watch?v=_KTq7UWA9AI&list=RD_KTq7UWA9AI&start_radio=1

@@ -15,3 +15,11 @@ In the film *Joker*, music functions not merely as a background element that exp
 영화 Joker에서 음악은 주인공의 정신질환을 단순히 설명하는 배경 요소가 아니라, 관객이 그의 불안정한 심리 상태를 직접 체험하도록 만드는 장치로 작용한다. 특히 ‘Bathroom Dance’ 장면에서 사용되는 반복적이고 느린 첼로 선율은 아서의 무너져가는 자아와 혼란스러운 내면을 섬세하게 드러낸다. 이 장면은 아서가 지하철 살인 사건 이후 화장실에서 홀로 춤을 추는 순간으로, 음악은 그가 느끼는 혼란과 불안뿐 아니라 기존의 아서가 사라지고 조커라는 새로운 정체성이 형성되는 과정을 암시한다. 낮고 무거운 음색은 우울감과 긴장감을 형성하며, 점점 깊어지는 선율은 사회적 고립 속에서 증폭되는 그의 고통과 광기를 표현한다. 또한 음악은 관객에게 단순한 슬픔만 전달하는 것이 아니라 불안감, 압박감, 그리고 설명하기 어려운 섬뜩함을 느끼게 한다. 반복되는 첼로 선율과 느린 리듬은 관객이 아서의 감정을 객관적으로 바라보기보다 그의 내면 속으로 끌려 들어가도록 만들며, 현실과 광기의 경계가 흐려지는 경험을 하게 한다. 이를 통해 영화는 정신질환을 단순히 ‘보여주는 것’을 넘어 관객이 감각적으로 체험하도록 만든다. 이와 관련해서는 [다른 영화의 내용](park-joowon.md)도 참조하면 도움이 될 것이다. [마지막으로 유튜브 링크도 추가하겠다.](https://youtu.be/K61-tK7Xlzg?si=u3Cs0ewVTUT-GzSG)
 
 <img src="https://github.com/user-attachments/assets/3f6d8cbb-f830-4cd3-a5a2-452c3fc6bff8" alt="Abstract image of Bathroom Dance" style="width:45%;" />
+
+# 장례식에서 틀어졌으면 하는 노래:자장가–아이유
+
+만약 내 장례식에서 연주될 음악을 선택할 수 있다면 아이유의 [자장가](https://youtu.be/aepREwo5Lio?si=HjXaA1XTzb56i978)를 선택하고 싶다. 이 곡은 잔잔하고 따뜻한 멜로디를 통해 슬픔보다는 위로와 평온함을 전해준다. 마치 긴 하루를 마치고 편안히 쉬라는 말을 건네는 것처럼 들려, 이별의 순간에도 따뜻한 감정을 남겨주는 노래라고 생각한다. 나는 장례식에 참석한 사람들이 깊은 슬픔에 머무르기보다 함께했던 소중한 추억을 떠올리며 위로를 받았으면 좋겠다. 또한 이 곡은 삶의 끝을 두려움이나 비극으로 바라보기보다 평안한 쉼의 순간으로 받아들이게 한다는 점에서 장례식에 잘 어울리는 음악이라고 생각한다.
+
+# A song I want to be played at a funeral: Lullaby-IU
+
+If I could choose a song to be played at my funeral, I would choose [Lullaby](https://youtu.be/aepREwo5Lio?si=G8mzjKmMJnOdcorz) by IU. The song has a warm and comforting melody that feels like a gentle farewell rather than a sad goodbye. Its lyrics offer comfort and peace, as if telling someone to rest well after a long and difficult journey. I would want the people attending my funeral to feel comforted rather than overwhelmed by grief. This song reflects my hope that they will remember me through warm memories and continue their lives with peace in their hearts.

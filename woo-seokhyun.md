@@ -14,6 +14,8 @@ The movie Miracle in Cell No. 7 is about a heartwarming and tear-jerking paterna
 
 In this regard, referring to [Inseparable Bros](yang-jiseok.md) would be helpful.
 
+The song I want played at my funeral is '[Goodbye for Now](https://www.youtube.com/watch?v=QrqYvbdAYcE)' (Ijen Annyeong) by 015B. I absolutely hate heavy, overly serious atmospheres; I much prefer something moderately bright and cheerful. That’s why, rather than a sad and gloomy funeral, I want mine to have a warm, uplifting vibe—just like the lyrics, looking forward to the day we meet again. That’s why I chose this song.
+
 <img src="./woo-seokhyun.png" alt="어두운 교도소 강당을 배경으로 노란빛 속에서 노래하는 어린이 합창단과 이를 바라보는 죄수들의 대비를 극적으로 그린 유화풍 그림이다. 화면 중앙의 무대 위에는 흰 셔츠와 파란 단복을 입은 수십 명의 아이들이 황금빛 조명을 받으며 순수하게 노래하고 있다. 화면 하단을 가득 채운 남성 관객들은 칙칙한 갈색과 카키색 죄수복을 입은 채 어두운 관객에서 무대를 일제히 올려다보고 있다. 환한 무대의 '빛'과 죄수석의 '어둠', 아이들의 '순수함'과 거친 '현실'이 색채와 명암을 통해 한눈에 대비되는 작품이다." style="width:60%;" />
 
 # 7번방의 선물 (2013)
@@ -23,3 +25,5 @@ In this regard, referring to [Inseparable Bros](yang-jiseok.md) would be helpful
 '[Angel's Song](https://www.youtube.com/watch?v=pJjOIXbgfCU)'은 초등학교 합창단과 죄수를 한 장면에 배치함으로써 주인공은 죄수복을 입은 성인의 모습이지만 그 내면은 맑고 투명한 존재로 보이게 함으로서 관객들에게 주인공의 장애를 향해 동정보단 깊은 공감을 유도한다. 음악이 순수할수록 주인공 용구가 처한 차가운 감옥과 사형이라는 현실과의 간극이 부각되며 관객의 슬픔을 아이러니하게 극대화하는 장치로 쓰인다. '우리는 그 속에서 꿈 꾸죠'나 '천사들은 미소지어 주네'와 같은 가사와 함께 피아노의 따뜻하고 감미로운 선율과 순수한 아이들의 목소리를 중심으로 동정심을 가지고 장애가 가진 결핍에 집중하기보다 공감을 통해 주인공이 가진 부성애와 가족애라는 보다 보편적 가치에 집중하게 함으로 관객들에게 인류에 대한 보다 넓은 공감을 이끌어낸다. 
 
 이와 관련해서는 [나의 특별한 형제](yang-jiseok.md)를 참조하면 도움이 될 것이다.
+
+나의 장례식에서 연주되길 바라는 음악은 공일오비(015B)의 '[이젠안녕](https://www.youtube.com/watch?v=QrqYvbdAYcE)'이다. 난 진지하고 심각한 분위기가 정말 너무 싫고 적당히 밝고 유쾌한 분위기가 좋다. 이런 생각들 때문에 내 장례식도 슬프고 우울한 분위기에서 진행되는 것 보단 노래의 가사처럼 언젠간 다시 만남을 기약하며 너무 슬프지도 않고 적당히 훈훈한 분위기에서 진행되는 것 바라는 마음에 이 노래를 선택했다.

@@ -19,6 +19,10 @@ After being abandoned by his mother as a child, Cho-won ran because he feared sh
 
 It will be more helpful to refer to [the contents of other works](lim-taehyeon.md ), which does not just express disability as negative and difficult.
 
+# Let's Break Up After April
+
+[A song I want you to play at my funeral](https://www.youtube.com/watch?v=KocvTAqISeo&list=RDMMKocvTAqISeo&start_radio=1) is a song called "Let's Break Up After April". The reason I chose this song is because I want you to remember me and not have a hard time because of me. My birthday is April 27th, at the end of April. I want to play the next song at my funeral in the hope that I can remember myself and live my normal life only until April, which is my birthday.
+
 <img src="./ko-eunsung.png" alt="An illustration depicting happiness felt by an autistic runner." style="width:25%;" />
 
 
@@ -33,3 +37,9 @@ It will be more helpful to refer to [the contents of other works](lim-taehyeon.m
 를 담고 있습니다. 어린 시절 어머니에게 버림받은 조원은 어머니가 다시 자신을 떠날까 봐 두려워하고 순종하고 싶어 뛰었습니다. 하지만 시간이 지나면서 그 두려움을 극복하고 달리기 자체를 진정으로 즐기기 시작했고, 이는 노래에 정서적 영향을 미쳤습니다
 
 장애를 그저 부정적이고 힘든 것으로 표현하지 않고 긍정적으로 표현한 [다른 작품의 내용](lim-taehyeon.md)을 참고하면 이해를 도와줄 것이다.
+
+# 4월이 지나면 우리 헤어져요
+
+[나의 장례식에서 틀어줬으면 하는 노래](https://www.youtube.com/watch?v=KocvTAqISeo&list=RDMMKocvTAqISeo&start_radio=1)는 4월이 지나면 우리 헤어져요라는 노래이다.이 노래를 선정한 이유는 나를 기억해줬으면 하는 마음과 나때문에 너무 힘들지 않았으면 하는 마음 때문이다.나의 생일은 4월 27일로 4월 말이다.죽은 사람을 주로 죽은 날과 고인의 생일에 생각나기 마련이고 나의 생일인 4월까지만 나를 기억하고 평소 삶을 살수 있길 바라는 마음에서 다음 노래를 나의 장례식에서 틀고싶다.
+
+
