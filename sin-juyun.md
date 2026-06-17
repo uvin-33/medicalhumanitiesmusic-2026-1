@@ -17,7 +17,6 @@ The song that would play at my funeral is [*Antifreeze*](https://www.youtube.com
 <img src="./sin-juyun.png" alt="Abstract image of Manchester by the sea" style="width:50%;" />
 Tomaso Albinoni's [*Adagio per Archi e Organo in Sol Minore*](https://www.youtube.com/watch?v=-hSs-ZlAzEg.md) appears at the moment Lee's house catches fire and he loses his children, accompanying the camera as it closes in on him, laying bare the instant collapse of a man's entire world, and returns once more in the scene where Lee, after being questioned at the police station, seizes an officer's gun and turns it on himself. Throughout the composition, the descending melodic line conveys a sense of resignation and despair, while the long note values and unhurried phrasing embody a still, unmoving grief. In particular, the descending figure repeated without resolution over a minor key aligns precisely with Lee's arc — a story that never arrives at overcoming. Introduced as the defining moment in which the protagonist suffers an irreversible and devastating blow, and as the key that unlocks the shape of his life in the aftermath, the piece functions within the film as a window into the innermost depths of a man carrying a wound that can never be washed away.
 
-<img src="./sin-juyun.png" alt="Abstract image of Manchester by the sea" style="width:25%;" />
 
 # 맨체스터 바이 더 씨
 
