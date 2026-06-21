@@ -16,6 +16,7 @@ ICD: F20
 
  When viewed from the perspective of diseases, this music helps the audience indirectly experience of John My City experience and understand the emotional system, which is difficult to understand the emotions and inner tax system.Repeatability and gradually intensified as a disease service that is functionally transmitted to confusion, anxiety, anxiety, anxiety, anxiety, anxiety, and the boundary between reality and patients.This shows that the subjective experience and emotions can be an important media that can be an important media that can be an important media.
  
+ 
 For other articles on the same movie, see <https://github.com/Gyurin-Kim/medicalhumanitiesmusic-2026-1/blob/5f39ff31b45f1b2e92bb49df67c4620d6bddeff5/yeum-gawon.md >.
 
  
@@ -29,6 +30,7 @@ For other articles on the same movie, see <https://github.com/Gyurin-Kim/medical
 이러한 음악은 내시의 불안정한 정신 상태와 현실과 환상의 경계를 표현하는 데 중요한 역할을 한다. 특히 일정한 패턴 속에서도 미묘하게 변화하는 선율은 그의 사고가 질서와 혼란 사이를 오가는 모습을 상징하며 관객이 그의 내면 세계를 감각적으로 경험하도록 돕는다. 이처럼 음악은 단순한 배경을 넘어 질병의 주관적 체험을 전달하는 매개로 기능한다. 
 
 질환서사의 관점에서 볼 때 이 음악은 관객이 존 내시의 조현병 경험을 간접적으로 체험하고 언어만으로는 표현하기 어려운 감정과 내면세계를 이해하도록 돕는다. 반복성과 질서, 그리고 점차 심화되는 불안정성은 혼란과 불안, 현실과 환상의 경계를 구분하기 어려운 질병 경험을 비언어적으로 전달하는 질환서사로 기능한다. 이는 음악이 질병을 겪는 사람의 주관적 경험과 감정을 전달하고 관객의 공감을 이끌어낼 수 있는 중요한 매체가 될 수 있음을 보여준다. 
+
 
 같은 영화를 다룬 다른 글은 <https://github.com/Gyurin-Kim/medicalhumanitiesmusic-2026-1/blob/5f39ff31b45f1b2e92bb49df67c4620d6bddeff5/yeum-gawon.md> 을 참고하세요.
 
