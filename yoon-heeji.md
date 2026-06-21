@@ -72,11 +72,17 @@ Rather than presenting death merely as a biological event, the song encourages l
 # Understanding Illness Narratives Through Music and the Potential of Medical Humanities
 
 The medical humanities analyses of the indie game *To The Moon* and the popular song Funeral Hope (*장례희망*) provided important insights that informed the development of the Future Question developed in the HYQ Portfolio: If music is understood as an illness narrative that embodies human experiences of living with illness and disability, can a music-centered medical humanities database become an ethical platform that listens to and connects diverse lived experiences? Rather than offering definitive answers, the two works encouraged deeper reflection on the relationship between music, illness, disability, memory, death, and narrative.
+
 *To The Moon* does not present autism spectrum disorder and memory impairment merely as medical diagnoses. Instead, it portrays the lived experiences of love, loss, communication difficulties, and the meaning of memory through music. In particular, the recurring and continuously varied musical themes allow experiences that are difficult to express through language alone to be shared aurally. Rather than attempting to represent suffering perfectly, the music invites listeners to remain with and listen to the experiences of others. In this sense, the work suggests that music can function not only as artistic expression but also as an illness narrative through which experiences of living with illness and disability are expressed, understood, and remembered.
+
 The music in the game also reveals dimensions of experience that are often difficult for modern medicine to fully explain, including the persistence and distortion of memory, relationships shaped by illness, and the experiences of a person approaching the end of life. This suggests that music may serve not primarily as a means of cure, but as a form of care that helps patients and those around them reflect on the meaning of life, relationships, and memory. Such observations highlight the importance of understanding patients not solely through diagnoses or clinical measurements, but also through the unique experiences and narratives that emerge as they live with illness and disability.
+
 Likewise, *Funeral Hope* encourages listeners to view death not simply as a biological event, but as an experience interpreted through memory and relationships. The song functions both as a source of comfort for those who remain and as a medium through which a person's life, values, and final message can continue to be remembered. In doing so, it demonstrates how music can preserve and communicate experiences that extend beyond the boundaries of physical life.
+
 These insights are closely connected to the direction proposed by the music-centered medical humanities database in the HYQ Portfolio. Both works suggest that music can capture emotions, memories, and experiences that cannot be fully represented through diagnostic labels, clinical data, or written descriptions alone. As a result, music may provide a way of understanding the lives of people living with illness, disability, aging, and death in a more holistic manner. Furthermore, the process through which healthcare professionals, patients, and members of the public interpret and document the same musical narratives from different perspectives has the potential to foster listening, empathy, and mutual understanding.
+
 At the same time, the two works also demonstrate that music is open to multiple interpretations. This raises important ethical questions about how illness narratives should be recorded, shared, and understood. If music is to be used as a medium for documenting lived experiences, it is essential to adopt an ethical approach to listening that respects the experiences, contexts, and voices of those whose stories are being represented.
+
 Ultimately, the analyses conducted through the QBL suggest that music can function as a narrative medium that conveys experiences of illness, disability, memory, and death. These observations informed the development of the Future Question by suggesting that music can preserve lived experiences, encourage ethical listening, and create opportunities for connection through shared acts of interpretation and reflection. Therefore, a music-centered medical humanities database can function not merely as a repository of information, but as an ethical platform through which diverse human experiences can be recorded, shared, and connected.
 
 
@@ -84,9 +90,15 @@ Ultimately, the analyses conducted through the QBL suggest that music can functi
 # 음악을 통한 질환서사의 이해와 의료인문학적 가능성
 
 인디게임 *To The Moon*의 OST와 대중가요 *장례희망*에 대한 의료인문학적인 분석은, HYQ Portfolio에서 도출한 Future Question, 즉 *음악을 질병과 장애를 살아가는 인간의 경험이 담긴 질환서사로 이해할 때, 음악 중심 의료인문학 DB는 다양한 삶의 경험을 경청하고 연결하는 윤리적 플랫폼이 될 수 있는가?*라는 질문을 구체적으로 탐색하게 만드는 실천적 사례가 된다.
+
 *To The Moon*은 자폐 스펙트럼과 기억장애라는 질병을 단지 의학적 진단으로만 보여주지 않고, 그 속에서 살아가는 개인의 사랑과 상실, 소통의 어려움을 극복하는 과정, 그리고 기억의 주체적 의미를 음악을 통해 전달한다. 특히 반복과 변주를 통해 구성된 음악은 언어만으로 설명하기 어려운 경험을 청각적으로 공유하며, 타인의 고통과 삶의 이야기를 경청하게 만든다. 이는 음악이 예술적 표현으로 사용될 뿐만 아니라 질병과 장애를 살아가는 인간의 경험을 담아내는 하나의 질환서사로 기능할 수 있음을 보여준다.
+
 또한 작품 속 음악은 기억의 왜곡과 지속, 임종을 앞둔 환자의 삶과 관계를 표현하며, 현대 의학이 설명하기 어려운 경험의 영역을 드러낸다. 이는 음악이 완치를 위한 치료의 수단이라기보다 환자와 주변인이 삶의 의미를 되돌아보고 기억을 재구성하도록 돕는 돌봄의 매개체가 될 수 있음을 시사한다. 이러한 점은 환자를 진단명이나 수치로만 이해하기보다, 질병과 장애를 살아가는 과정에서 형성된 고유한 경험과 서사를 가진 존재로 이해해야 한다는 문제의식과 연결된다.
+
 *장례희망* 역시 죽음을 어떤 생물학적 사건이 아니라 기억과 관계 속에서 해석되는 경험으로 바라보게 만든다. 여기서 음악은 남겨진 사람들에게 위로를 제공하는 동시에, 한 사람의 삶과 가치관, 그리고 그가 남기고자 했던 메시지를 기억하게 만드는 매개체로 기능한다. 이를 통해 음악이 인간의 경험을 기록하고 공유하는 서사적 자료가 될 수 있다는 가능성을 확인할 수 있다.
+
 이러한 분석은 HYQ Portfolio에서 제안한 음악 중심 의료인문학 DB의 방향성과도 연결된다. 음악은 검사 수치나 진단명만으로는 담아낼 수 없는 감정과 경험을 기록할 수 있으며, 이를 통해 질병과 장애, 노화와 죽음을 살아가는 개인의 삶을 보다 입체적으로 이해할 수 있게 한다. 또한 의료인, 환자, 일반 시민이 동일한 음악적 서사를 서로 다른 관점에서 해석하고 기록하는 과정은 경청과 공감을 촉진하는 계기가 될 수 있다.
+
 동시에 두 작품은 음악이 다양한 해석을 허용한다는 점도 보여준다. 따라서 음악을 질환서사로 기록하고 공유하는 과정에서는 당사자의 경험과 맥락을 존중하며 경청하는 윤리적 태도가 필수적이다. 이는 HYQ Portfolio에서 제기한 윤리적 플랫폼의 필요성과도 맞닿아 있다.
+
 결국 QBL을 통해 살펴본 두 작품은 음악이 질병과 장애, 기억과 죽음의 경험을 담아내는 서사적 매체가 될 수 있음을 보여주었다. 이러한 음악적 서사는 환자에게는 자신의 경험을 표현하는 언어가 되고, 의료인에게는 환자의 삶을 이해하는 통로가 되며, 사회에는 질병과 장애에 대한 공감과 성찰의 기회를 제공할 수 있다. 따라서 음악 중심 의료인문학 DB는 단순한 자료 저장소 이상으로 다양한 인간 경험을 기록하고 공유하며, 환자, 의료인 그리고 사회 모두를 아울러 연결하는 윤리적 플랫폼으로 기능할 수 있음을 확인할 수 있었다.
