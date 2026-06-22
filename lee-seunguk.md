@@ -20,6 +20,8 @@ This reading also resonates with the Week 11 lecture on the social musicology of
 
 The Week 12 lecture on illness narrative in music sharpens this further. Heard through that lens, Beethoven's Allegretto functions as *auditory anamnesis*—a sounding trace of a composer whose own hearing was failing as he wrote it. Layered into a scene about another disabled body that cannot speak fluently, the music carries a double illness narrative: Beethoven's failing ear underwriting George VI's stuttering tongue. This layering also poses the ethical question Week 12 raised—whether such pairing risks aestheticizing suffering, or whether it asks us to listen not as spectators but as *witnesses* to two disabled lives meeting through sound.
 
+This analysis can be read as one concrete answer to the Future Question I posed in my HYQ Portfolio—*how will the representation of disease mediated by art and music change in the future, and how can we newly establish ethical standards of value judgment about disease through that change?* The way Beethoven's Symphony No. 7 does not *correct* but rather *supports* George VI's stuttering voice—and the way that support is layered through illness narrative (Week 3), ableist medium critique (Week 11), and double auditory anamnesis (Week 12)—offers a model for how disease and disabled bodies might be represented in future media, without erasing the very textures that give such voices their meaning.
+
 # 킹스 스피치
 
 이 영화는 음악을 이용해 제 2차 세계 대전 당시 말더듬증을 갖고 연설을 해야했던 국왕의 상황을 잘 표현해준다. 마지막 [연설 장면](https://www.youtube.com/watch?v=W9UktXoM6Zw)에서 흐르는 베토벤 교향곡 7번 2악장 알레그레토는 a단조의 점음표 리듬(길게-짧게-짧게-길게-길게)이 집요하게 반복되며 느리고 규칙적인 박동을 만들어낸다. 이 박동은 조지 6세의 끊어지는 발화를 외부에서 떠받치는 비계(scaffold)로 기능한다. 그의 목소리가 끊어지는 순간 오케스트라가 선율을 이어가고, 그가 멈추는 순간 화성 진행이 정서적 연속성을 유지시킨다. 또한 이 장면의 카메라 워크와 편집 또한 음악의 박동과 동기화된다. 처음에는 BBC 스튜디오와 마이크를 비추는 넓은 쇼트로 시작했다가 점차 국왕의 얼굴과 떨리는 입술을 클로즈업하며 들어가고, 그가 한 구절씩 완수할 때마다 오케스트라의 음량이 함께 부풀어 오른다.
@@ -31,6 +33,8 @@ The Week 12 lecture on illness narrative in music sharpens this further. Heard t
 이러한 독해는 11주차 「수어의 음악사회학」 강의와도 자연스럽게 이어진다. 1939년의 라디오는 조지 6세의 더듬는 목소리는 송신하면서도 떨리는 신체는 가렸는데, 이는 정치적 권위가 유창한 목소리를 요구한다는 비장애중심주의(ableism)적 규범을 드러내며, 영화는 단순히 국왕의 극복을 기리는 데 그치지 않고 그 규범 자체를 조용히 드러낸다.
 
 12주차 「질병과 음악에는 서사가 있다」 강의는 이 독해를 한층 더 정교하게 만들어 준다. 이 관점에서 보면 베토벤의 알레그레토는 *청각적 병력청취(auditory anamnesis)*로 기능한다. 청력을 잃어가던 작곡가의 신체 상태가 이미 음악 안에 흔적으로 새겨져 있기 때문이다. 이 곡이 또 다른 장애 신체가 유창하게 말하지 못하는 장면에 얹히면서 음악은 이중의 질환서사를 운반하게 되고, 베토벤의 사라져가는 청각이 조지 6세의 더듬는 혀를 떠받친다. 이 겹쳐 듣기는 동시에 12주차에서 던진 윤리적 물음—이러한 결합이 고통을 미학화할 위험은 없는가, 아니면 우리에게 두 장애의 삶이 소리를 통해 만나는 순간을 *관객*이 아니라 *증인(witness)*으로서 듣게 하는가—을 함께 제기한다.
+
+이 영화 분석은 본인이 HYQ Portfolio에서 던진 Future Question — *예술과 음악이 매개해 온 질병의 재현은 미래에 어떻게 변하며, 우리는 그 변화를 통해 질병에 대한 가치판단을 어떻게 새롭게 세울 수 있을까* — 에 대한 한 가지 구체적 답안으로 읽을 수 있다. 베토벤 교향곡 7번이 조지 6세의 더듬는 목소리를 *교정*하지 않고 *떠받친* 방식 — 그리고 그 떠받침이 질환서사(3주차), 비장애중심주의적 매체 비판(11주차), 이중 청각적 병력청취(12주차)로 겹쳐진다는 점 — 은 미래의 새로운 매체가 질병과 장애를 재현할 때에도 그 결을 지우지 않고 함께 존재하게 하는 윤리적 기준의 한 모델을 제시한다.
 
 # Music for My Funeral
 
